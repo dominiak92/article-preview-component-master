@@ -9,6 +9,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
+- Live Site URL: [LIVE SITE](https://dominiak92.github.io/article-preview-component-master/)
+
 ### The challenge
 
 Users should be able to:
